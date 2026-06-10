@@ -16,3 +16,7 @@ This notebook explores how the Fear and Greed Index relates to trader behavior a
 
 - historical_data.csv: trade records from Hyperliquid
 - fear_greed_index.csv: daily Fear and Greed Index values
+
+## Running the notebook
+
+Open `bitcoin_sentiment_analysis.ipynb` in Jupyter Notebook, VS Code, or Google Colab, then run the cells from top to bottom. Keep the trade data and Fear and Greed Index CSV files in the same working directory as the notebook so the analysis can load the datasets correctly.
