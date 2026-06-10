@@ -20,3 +20,15 @@ This notebook explores how the Fear and Greed Index relates to trader behavior a
 ## Running the notebook
 
 Open `bitcoin_sentiment_analysis.ipynb` in Jupyter Notebook, VS Code, or Google Colab, then run the cells from top to bottom. Keep the trade data and Fear and Greed Index CSV files in the same working directory as the notebook so the analysis can load the datasets correctly.
+
+## Documentation
+
+- [Project overview](docs/project-overview.md)
+- [Data sources](docs/data-sources.md)
+- [Analysis workflow](docs/analysis-workflow.md)
+- [Sentiment regimes](docs/sentiment-regimes.md)
+- [Trader performance metrics](docs/trader-performance-metrics.md)
+- [Risk notes](docs/risk-notes.md)
+- [Reproducibility](docs/reproducibility.md)
+- [Notebook checklist](docs/notebook-checklist.md)
+- [Limitations](docs/limitations.md)
